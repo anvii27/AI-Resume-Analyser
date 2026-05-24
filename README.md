@@ -1,4 +1,4 @@
-# AI Resume Analyzer 📄🤖
+# SkillMatch: AI Resume Analyzer 📄🤖
 
 An AI-powered web application that evaluates resumes against job descriptions to generate a match score and provide actionable improvement suggestions using NLP similarity techniques and AI-driven feedback.
 
